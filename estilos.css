@@ -1,0 +1,36 @@
+header{
+    /*    background: #75B4FF;*/
+    background: #1E90FF;
+    color: #fff;
+}
+
+/*article div {
+    width: 200px;
+    padding: 20px;
+    height:200px;
+    background: red;
+    margin: 20px;
+    border: 5px solid black;
+    display: inline-block;
+}*/
+
+/*p{
+    background: #75B4FF;
+}*/
+
+.color1{
+    background: #1E90FF;
+    color: #fff;
+}
+
+footer{
+    background: #1E90FF;
+    color: #fff;
+}
+
+.color-nav{
+    color: #000;
+}
+.color-nav:hover{
+    color: #1E90FF;
+}
